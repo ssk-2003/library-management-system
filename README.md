@@ -11,4 +11,6 @@ A simple object-oriented Python program to manage a small library.
 
 ## 🛠 Tech Stack
 - Python (Classes & Objects)
+## 📸 Screenshot
+![Library Management Screenshot](screenshot.png)
 
