@@ -1,2 +1,14 @@
-# library-management-system
-A simple Python Library Management System using OOP for adding, borrowing, and returning books.
+# 📚 Library Management System
+
+A simple object-oriented Python program to manage a small library.  
+
+## 🚀 Features
+- Add books to the library  
+- Add members to the library  
+- Borrow books (with availability check)  
+- Return books  
+- Search books by title  
+
+## 🛠 Tech Stack
+- Python (Classes & Objects)
+
